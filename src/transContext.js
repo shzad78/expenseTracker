@@ -18,7 +18,7 @@ export const TransactionProvider = ({})=>{
                     amount: transOnj.amount,
                     desc: transObj.desc
 
-                }
+                } 
             })
     }
 }
